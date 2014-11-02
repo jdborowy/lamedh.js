@@ -1,0 +1,15 @@
+{
+  "name": "lamedh",
+  "description": "Javascript ORM for IndexedDB",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cli": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-qunit": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-remove-logging-calls": "*"
+   }
+}
